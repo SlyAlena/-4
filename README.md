@@ -1,9 +1,10 @@
 # Bilet4
 
-#include <iostream>
-using namespace std;
 
-int main() {
+	#include <iostream>
+	using namespace std;
+
+	int main() {
 	setlocale(LC_ALL, "Russian");
 	int age;
 	cin >> age;
